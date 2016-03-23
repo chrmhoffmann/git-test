@@ -1,5 +1,6 @@
+import java.math.BigDecimal;
 public class Bicycle
 {
-    public int speed;
+    public BigDecimal speed;
 }
 
