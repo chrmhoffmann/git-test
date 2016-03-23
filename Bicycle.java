@@ -1,5 +1,5 @@
 public class Bicycle
 {
-    public int speed;
+    public double speed;
 }
 
